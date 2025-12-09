@@ -39,9 +39,7 @@
 * **Data:** JSON
 
 ## 📸 Capturas del Sistema
-
-*(Sube aquí tus capturas del mapa, el dashboard y la venta de pasajes)*
-![Mapa Global](ruta/a/tu/imagen.png)
+<img width="1917" height="1031" alt="ImagDashboardEasyTravel" src="https://github.com/user-attachments/assets/3a880583-9355-4523-9c8e-7530d95f49f4" />
 
 ## 🚀 Instalación
 
